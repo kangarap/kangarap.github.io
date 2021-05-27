@@ -812,10 +812,10 @@ if (typeof jQuery !== 'undefined') {
 
       return UI;
     };
-    $('.controller-area').append($(`<a href="${decodeURIComponent('https%3A%2F%2Ftva1.sinaimg.cn%2Fsq612%2Fe3afbb56gy1gqssnlid5nj20bn0cfwfx.jpg')}" target="_blank"><div class="joy">${decodeURIComponent('%E5%85%AC%E4%BC%97%E5%8F%B7')}<br><b>${decodeURIComponent('%E5%B0%8F%E9%AB%98%E6%95%99%E5%AD%A6%E7%BD%91')}</b></div></a>`));
-    var a1 = $(`<a href="${decodeURIComponent('https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fq0zmXvFu3PsWCs5ERbFbDQ')}" target="_blank" class="readme">${decodeURIComponent('%E8%8E%B7%E5%8F%96%E6%BA%90%E7%A0%81')}</a>`)
-    var a2 = $(`<a href="${decodeURIComponent('http%3A%2F%2Fweifenshi.com%2F')}" target="_blank" style="z-index: 10" class="readme1">${decodeURIComponent('%E4%BC%98%E6%83%A0%E9%A2%86%E5%88%B8')}</a>`)
-    $('.a1-container').append(a1)
-    $('.a2-container').append(a2)
+    // $('.controller-area').append($(`<a href="${decodeURIComponent('')}" target="_blank"><div class="joy">${decodeURIComponent('%E5%85%AC%E4%BC%97%E5%8F%B7')}<br><b>${decodeURIComponent('')}</b></div></a>`));
+    // var a1 = $(`<a href="${decodeURIComponent('')}" target="_blank" class="readme">${decodeURIComponent('')}</a>`)
+    // var a2 = $(`<a href="${decodeURIComponent('')}" target="_blank" style="z-index: 10" class="readme1">${decodeURIComponent('')}</a>`)
+    // $('.a1-container').append(a1)
+    // $('.a2-container').append(a2)
   })(jQuery);
 }
